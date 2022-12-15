@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benny Septiawan Salim,
 - 👀 Interest in mobile related software development
-- 🌱 Currently adapting native Android dev also flutter/RN cross platform 
+- 🌱 Currently adapting Flutter cross platform also android native
 - 📫 Reach me at Instagram @bennysptwn_ for Inquiries/Opportunities :)
 
 <!---
