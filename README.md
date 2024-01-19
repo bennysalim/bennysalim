@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benny Septiawan Salim,
 - 👀 Interest in software development
-- 🌱 Currently adapting flutter, front end web (react), and backend development (spring boot)
+- 🌱 Currently adapting cross mobile (flutter), front end web (react), and backend development (spring boot)
 - 📫 Reach me at Instagram @bennysptwn_ for Inquiries/Opportunities :)
 
 <!---
